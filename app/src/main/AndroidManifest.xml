@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".StartActivity"></activity>
+        <activity android:name=".disvisibility"></activity>
+        <activity android:name=".Main4Activity" />
+        <activity android:name=".visibility" />
+        <activity android:name=".StartActivity" />
         <activity android:name=".ResultActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
